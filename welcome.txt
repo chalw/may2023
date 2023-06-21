@@ -1,2 +1,5 @@
-hi this is test for git 
+hi this is test for git
+this is third line second line discarded
+let me check once
+
 
